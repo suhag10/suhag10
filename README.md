@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suhag10
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning wp plugin
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
