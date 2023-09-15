@@ -1,9 +1,8 @@
 ## Hi there 👋, Suhag Ahmed
 
-👑 I'm a Web Developer
-👨‍💻 Love to write code
-🎯 My focus on Website Quality
-
+👑 I'm a Web Developer <br />
+👨‍💻 Love to write code <br />
+🎯 My focus on Website Quality <br />
 
 ## 🚀 About Me
 As a dedicated web developer, I am passionate about crafting exceptional websites. With three years of experience in this field, I possess extensive knowledge of various web technologies. My ultimate goal is to deliver web experiences that surpass my clients' expectations.
