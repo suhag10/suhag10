@@ -10,11 +10,11 @@ As a dedicated web developer, I am passionate about crafting exceptional website
 
 
 ## 👨‍💻 Skills:
-✅ WordPress
-✅ JavaScript
-✅ Git
-✅ HTML5 / CSS3 / SASS / Bootstrap5
-✅ Figma / Photoshop / Illustrator
+✅ WordPress <br />
+✅ JavaScript <br />
+✅ Git <br />
+✅ HTML5 / CSS3 / SASS / Bootstrap5 <br />
+✅ Figma / Photoshop / Illustrator <br />
 
 - 🔭 I’m currently working on BarakaUI Theme
 - 🌱 I’m currently learning PHP 
