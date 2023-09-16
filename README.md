@@ -1,4 +1,4 @@
-## Hi there 👋, I'm a Suhag Ahmed
+## Hi there 👋, My name is Suhag Ahmed.
 
 👑 I'm a Web Developer <br />
 👨‍💻 Love to write code <br />
