@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! 👋
 
 👑 I'm a Web Developer <br />
 👨‍💻 Love to write code <br />
