@@ -1,4 +1,4 @@
-## Hi there 👋, I am Suhag Ahmed
+## Hi there 👋, I'm a Suhag Ahmed
 
 👑 I'm a Web Developer <br />
 👨‍💻 Love to write code <br />
@@ -28,10 +28,6 @@ As a dedicated web developer, I am passionate about crafting exceptional website
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhag10&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<be />
-<be />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suhag10&show_icons=true)  
 
 <!---
 suhag10/suhag10 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
