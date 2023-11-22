@@ -16,7 +16,7 @@ As a dedicated web developer, I am passionate about crafting exceptional website
 ✅ HTML5 / CSS3 / SASS / Bootstrap5 <br />
 ✅ Figma / Photoshop / Illustrator <br />
 
-- 🔭 I’m currently working on BarakaUI Theme
+<!-- 🔭 I’m currently working on BarakaUI Theme -->
 - 🌱 At the moment, I am in the process of familiarizing myself with new technology.
 
 
