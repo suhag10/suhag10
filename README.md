@@ -13,8 +13,8 @@ As a dedicated web developer, I am passionate about crafting exceptional website
 ✅ WordPress <br />
 ✅ PHP / MySQL <br />
 ✅ Git <br />
-✅ JavaScript <br />
-✅ HTML5 / CSS3 / SASS / Bootstrap5 <br />
+✅ JavaScript / JQuery / Node.js <br />
+✅ HTML5 / CSS3 / SASS / Bootstrap5 / TailwindCSS <br />
 ✅ Figma / Photoshop / Illustrator <br />
 
 <!-- 🔭 I’m currently working on BarakaUI Theme -->
@@ -33,13 +33,13 @@ As a dedicated web developer, I am passionate about crafting exceptional website
   <a href="https://github.com/suhag10">
     <img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/suhag10/cdn/main/images/social-media/github-sign.png" />
   </a>
-  <a href="https://www.facebook.com/suhagDeveloper">
+  <a href="https://www.facebook.com/suhag15">
     <img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/suhag10/cdn/main/images/social-media/facebook.png" />
   </a>
-  <a href="https://www.instagram.com/suhagDeveloper/">
+  <a href="https://www.instagram.com/suhag_11/">
     <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/suhag10/cdn/main/images/social-media/instagram.png" />
   </a>
-  <a href="https://twitter.com/suhag41">
+  <a href="https://twitter.com/suhag_11">
     <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/suhag10/cdn/main/images/social-media/twitter-1.png" />
   </a>
   <a href="https://www.youtube.com/channel/@suhag10">
