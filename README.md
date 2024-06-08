@@ -6,11 +6,11 @@
 <!--🌱 -->
 
 
-### 🚀 About Me
+### 👨‍💻 About Me
 As a dedicated WordPress developer, I actively immerse myself in the latest technologies to enhance my skills. <br /><br />
 
 
-### 👨‍💻 Skills
+### 🚀 Skills
 ✅ WordPress <br />
 ✅ PHP / MySQL <br />
 ✅ Git / Postman / Linux <br />
