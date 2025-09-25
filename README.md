@@ -1,4 +1,4 @@
-## Hi :wave:, I'm Suhag Ahmed <img width="35" src="https://em-content.zobj.net/source/microsoft-teams/363/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png">
+## Hi :wave:, I'm Suhag Ahmed <img width="35" src="https://suhag10.github.io/cdn/images/emoji/technologist-light-skin-tone.png" style="user-select: none;-moz-user-select: none;">
 
 👑 I'm a WordPress Developer <br />
 👨‍💻 I love to write code in PHP <br />
@@ -11,10 +11,10 @@ As a dedicated WordPress developer, I actively immerse myself in the latest tech
 
 
 ### 🚀 Skills
-✅ WordPress <br />
+✅ WordPress / Plugin / Theme <br />
 ✅ PHP / MySQL <br />
 ✅ Git / Postman / Linux <br />
-✅ JavaScript / JQuery / Chartjs / Node.js <br />
+✅ JavaScript / JQuery / Node.js <br />
 ✅ HTML5 / CSS3 / SASS / Bootstrap5 / TailwindCSS <br />
 ✅ Figma / Photoshop / Illustrator <br />
 
@@ -32,25 +32,25 @@ As a dedicated WordPress developer, I actively immerse myself in the latest tech
 ### ☕ Where to find me!
 <p align="center">
   <a href="https://www.linkedin.com/in/suhag11/">
-    <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/suhag10/cdn/main/images/social-media/linkedin.png" />
+    <img align="left" alt="LinkedIn" width="22px" src="https://suhag10.github.io/cdn/images/social-media/linkedin.png" />
   </a>
 <!--   <a href="https://github.com/suhag10">
-    <img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/suhag10/cdn/main/images/social-media/github-sign.png" />
+    <img align="left" alt="GitHub" width="22px" src="https://suhag10.github.io/cdn/images/social-media/github-sign.png" />
   </a> -->
-  <a href="https://www.facebook.com/suhag15">
-    <img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/suhag10/cdn/main/images/social-media/facebook.png" />
+  <a href="https://www.facebook.com/suhagahmed.dev">
+    <img align="left" alt="Facebook" width="22px" src="https://suhag10.github.io/cdn/images/social-media/facebook.png" />
   </a>
   <a href="https://www.instagram.com/suhag_11/">
-    <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/suhag10/cdn/main/images/social-media/instagram.png" />
+    <img align="left" alt="Instagram" width="22px" src="https://suhag10.github.io/cdn/images/social-media/instagram.png" />
   </a>
   <a href="https://twitter.com/suhag_11">
-    <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/suhag10/cdn/main/images/social-media/twitter-1.png" />
+    <img align="left" alt="Twitter" width="22px" src="https://suhag10.github.io/cdn/images/social-media/twitter-1.png" />
   </a>
   <a href="https://www.youtube.com/channel/@suhag10">
-    <img align="left" alt="Youtube" width="22px" src="https://raw.githubusercontent.com/suhag10/cdn/main/images/social-media/youtube.png" />
+    <img align="left" alt="Youtube" width="22px" src="https://suhag10.github.io/cdn/images/social-media/youtube.png" />
   </a>
-  <a href="https://suhag10.github.io/portfolio/">
-    <img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/suhag10/cdn/main/images/social-media/website.png" />
+  <a href="https://suhag10.github.io/portfolio/index.html">
+    <img align="left" alt="Portfolio" width="22px" src="https://suhag10.github.io/cdn/images/social-media/website.png" />
   </a>
 </p>
 
