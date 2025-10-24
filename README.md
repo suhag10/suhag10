@@ -12,9 +12,9 @@ As a dedicated WordPress developer, I actively immerse myself in the latest tech
 
 ### 🚀 Skills
 ✅ WordPress / Plugin / Theme <br />
-✅ PHP / MySQL <br />
+✅ PHP / MySQL / Composer<br />
 ✅ Git / Postman / Linux <br />
-✅ JavaScript / JQuery / Node.js <br />
+✅ JavaScript / jQuery / Node.js <br />
 ✅ HTML5 / CSS3 / SASS / Bootstrap5 / TailwindCSS <br />
 ✅ Figma / Photoshop / Illustrator <br />
 
@@ -40,7 +40,7 @@ As a dedicated WordPress developer, I actively immerse myself in the latest tech
   <a href="https://www.facebook.com/suhagahmed.dev">
     <img align="left" alt="Facebook" width="22px" src="https://suhag10.github.io/cdn/images/social-media/facebook.png" />
   </a>
-  <a href="https://www.instagram.com/suhag_11/">
+  <a href="https://www.instagram.com/suhagahmed.dev">
     <img align="left" alt="Instagram" width="22px" src="https://suhag10.github.io/cdn/images/social-media/instagram.png" />
   </a>
   <a href="https://twitter.com/suhag_11">
