@@ -1,4 +1,4 @@
-## Hi :wave:, I'm Suhag Ahmed <img width="35" src="https://suhag10.github.io/cdn/images/emoji/technologist-light-skin-tone.png" style="user-select: none;-moz-user-select: none;">
+## Hi there :wave: I'm Suhag Ahmed <img width="35" src="https://suhag10.github.io/cdn/images/emoji/technologist-light-skin-tone.png" style="user-select: none;-moz-user-select: none;">
 
 👑 I'm a WordPress Developer <br />
 👨‍💻 I love to write code in PHP <br />
@@ -7,24 +7,20 @@
 
 
 ### 👨‍💻 About Me
-As a dedicated WordPress developer, I actively immerse myself in the latest technologies to enhance my skills. <br /><br />
+As a WordPress developer, I continually stay up-to-date with the latest technologies to enhance my skills and expertise.<br /><br />
 
 
 ### 🚀 Skills
-✅ WordPress / Plugin / Theme <br />
+✅ WordPress / Theme / Plugin / Elementor / WooCommerce <br />
 ✅ PHP / MySQL / Composer<br />
 ✅ Git / Postman / Linux <br />
 ✅ JavaScript / jQuery / Node.js <br />
-✅ HTML5 / CSS3 / SASS / Bootstrap5 / TailwindCSS <br />
+✅ HTML5 / CSS3 / SCSS / Bootstrap5 / TailwindCSS <br />
 ✅ Figma / Photoshop / Illustrator <br />
 
 
-<!-- 🔭 I’m currently working on BarakaUI Theme -->
-<!-- - 📚 I’m currently learning WordPress Plugin Development. -->
-
-
 <a href="https://github.com/suhag10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhag10&layout=compact&langs_count=8&card_width=320" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suhag10&layout=compact&langs_count=8&card_width=320" alt="" />
 </a>
 
 <br /><br />
@@ -46,27 +42,10 @@ As a dedicated WordPress developer, I actively immerse myself in the latest tech
   <a href="https://twitter.com/suhag_11">
     <img align="left" alt="Twitter" width="22px" src="https://suhag10.github.io/cdn/images/social-media/twitter-1.png" />
   </a>
-  <a href="https://www.youtube.com/channel/@suhag10">
+  <!-- <a href="https://www.youtube.com/channel/@suhag10">
     <img align="left" alt="Youtube" width="22px" src="https://suhag10.github.io/cdn/images/social-media/youtube.png" />
-  </a>
+  </a> -->
   <a href="https://suhag10.github.io/portfolio/index.html">
     <img align="left" alt="Portfolio" width="22px" src="https://suhag10.github.io/cdn/images/social-media/website.png" />
   </a>
 </p>
-
-<!--
-### Hi there 👋
-
-**suhag10/suhag10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
